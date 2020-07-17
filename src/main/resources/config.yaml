@@ -1,0 +1,8 @@
+port: 9080
+api_key: 706c7320646f6e617465203a28
+
+worker:
+  name: chloe
+
+enabled_themes:
+  - grid
